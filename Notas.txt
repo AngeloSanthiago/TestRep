@@ -1,0 +1,3 @@
+Adicionar um repositório remoto no GIT HUB
+
+git remote add origin https://github.com/AngeloSanthiago/JS_GuiaProg.git
