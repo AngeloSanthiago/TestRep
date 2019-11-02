@@ -1,3 +1,8 @@
 Adicionar um repositório remoto no GIT HUB
-
-git remote add origin https://github.com/AngeloSanthiago/JS_GuiaProg.git
+1 - É necessário criar o repositór no GitHub
+2 - Adicionar a configuração de repositório remoto no projeto como nos exemplos abaixo;
+	git remote add origin https://github.com/AngeloSanthiago/JS_GuiaProg.git
+	git remote add origin https://github.com/AngeloSanthiago/TestRep.git
+3 - Enviar o projeto com o comando;
+	git push origin master
+	git push -u origin master(vincula a branch master sempre ao repositório origin)
